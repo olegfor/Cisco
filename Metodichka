@@ -1,5 +1,7 @@
+https://yandex.ru/video/preview/5500873508298879601 (руководство по Git)
+
 Git init – инициализация каталога
-Git config  –list (проверь чтобы имя пользователя и мейл совпадали с git hab) 
+it config  –list (проверь чтобы имя пользователя и мейл совпадали с git hab) 
 Git status
 Git log
 Git add
@@ -13,7 +15,3 @@ Git merge – слияние веток
   git remote add origin https://github.com/olegfor/ИМЯ_РЕПОЗИТОРИЯ.git
   git branch -M main
   git push -u origin main
-
-https://netacad.sadlab.su (лабы по cisco)
-https://yandex.ru/video/preview/5500873508298879601 (руководство по Git)
-
